@@ -22,10 +22,7 @@ Here are some ideas to get you started:
   <a href="http://qiita.com/TakuM-M">
     <img height="20" src="https://qiita-badge.apiapi.app/s/TakuM-M/posts.svg" />
   </a>
-  <a href="http://qiita.com/TakuM-M">
+  <a href="http://qiita.com/Kuchoco">
     <img height="20" src="https://qiita-badge.apiapi.app/s/TakuM-M/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/takum_m">
-    <img height="20" src="https://badgen.org/img/zenn/takum_m/articles?style=plastic" />
   </a>
 </p>
