@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/TakuM-M/TakuM-M/output/github-contribution-grid-snake.svg)
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -36,5 +38,3 @@ Here are some ideas to get you started:
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=TakuM-M&theme=gruvbox)
-
-![](https://raw.githubusercontent.com/TakuM-M/TakuM-M/output/github-contribution-grid-snake.svg)
