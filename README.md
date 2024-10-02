@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm spending time on playing table tennis.
 
 <p align="left">
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/TakuM-M">
     <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
   </a>
   <a href="https://github.com/Keichan15">
