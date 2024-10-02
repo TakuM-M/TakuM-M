@@ -24,8 +24,6 @@ Here are some ideas to get you started:
   <a href="http://qiita.com/Kuchoco">
     <img height="20" src="https://qiita-badge.apiapi.app/s/TakuM-M/posts.svg" />
   </a>
-  <a href="http://qiita.com/Kuchoco">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/TakuM-M/contributions.svg" />
 </p>
 
 
