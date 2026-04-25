@@ -21,6 +21,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakuM-M&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakuM-M&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakuM-M&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=TakuM-M&theme=gruvbox)
