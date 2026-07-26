@@ -1,18 +1,7 @@
 ![](https://raw.githubusercontent.com/TakuM-M/TakuM-M/output/github-contribution-grid-snake.svg)
 
 ### Hi there 👋
-
-<p align="left">
-  <a href="https://github.com/TakuM-M">
-    <img height="20" src="https://komarev.com/ghpvc/?username=TakuM-M" />
-  </a>
-  <a href="https://github.com/TakuM-M">
-    <img height="20" src="https://img.shields.io/github/followers/TakuM-M?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/Kuchoco">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/TakuM-M/posts.svg" />
-  </a>
-</p>
+<a href="https://takum-m.github.io/">mypage</a>
 
 
 ## Stats
