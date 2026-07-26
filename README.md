@@ -1,6 +1,8 @@
 ![](https://raw.githubusercontent.com/TakuM-M/TakuM-M/output/github-contribution-grid-snake.svg)
 
-### <a href="https://takum-m.github.io/">Hi there 👋</a>
+### >Hi there 👋
+
+<a href="https://takum-m.github.io/">My Page</a>
 
 
 ## Stats
